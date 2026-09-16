@@ -2673,7 +2673,7 @@ local ADMIN_NAMES = {
 	yeenballover = true,
 	djewens = true,
 	v4lk4r13 = true,
-	iTE0CC = true,
+	iTE0CC = true
 }
 
 function F.isNexusAdminName(name)
